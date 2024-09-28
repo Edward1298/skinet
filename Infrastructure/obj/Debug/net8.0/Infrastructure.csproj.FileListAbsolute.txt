@@ -13,3 +13,4 @@ D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Infrastructure\o
 D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

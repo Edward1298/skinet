@@ -9,3 +9,4 @@ D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Core\obj\Debug\n
 D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Core\obj\Debug\net8.0\refint\Core.dll
 D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Core\obj\Debug\net8.0\Core.pdb
 D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Core\obj\Debug\net8.0\ref\Core.dll
+D:\Carpetas\Edward\Certificaciones\.net Angular\Proyecto\skinet\Core\obj\Debug\net8.0\Core.sourcelink.json
